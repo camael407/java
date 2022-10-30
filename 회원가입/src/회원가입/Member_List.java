@@ -48,7 +48,7 @@ public class Member_List extends JFrame implements MouseListener, ActionListener
 
 		pbtn = new JPanel();
 		pbtn.setBackground(Color.orange);
-		add(pbtn, BorderLayout.SOUTH);
+		add(pbtn, BorderLayout.SOUTH); 
 
 		JPanel p = new JPanel();
 		String[] comboName = { "NAME+ID", " NAME  ", " ID ", };

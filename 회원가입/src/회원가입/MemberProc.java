@@ -32,8 +32,8 @@ public class MemberProc extends JFrame implements ActionListener {
 		btnDelete.setEnabled(false);
 		btnDelete.setVisible(false);
 
-	}// 생성자
-
+	}// 생성자 
+ 
 	public MemberProc(Member_List mList) { // 가입용 생성자
 
 		createUI(); // UI작성해주는 메소드

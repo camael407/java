@@ -27,7 +27,7 @@ public class MemberDTO {
 	
 	//이거 스트링으로 받을까? 식별 id 영숫 조합으로
 	public String getMem_id() {
-		return mem_id;
+		return mem_id; 
 	}
 	public void setMem_id(String mem_id) {
 		this.mem_id = mem_id; }

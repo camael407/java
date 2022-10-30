@@ -38,7 +38,7 @@ public class MemberDAO {
 	PreparedStatement ps;
 	ResultSet rs;
 
-	/**
+	/** 
 	 * 로드 연결을 위한 생성자
 	 */
 
