@@ -1,0 +1,7 @@
+", getMem_id()=" + getMem_id() + ", getMem_userid()=" + getMem_userid() + ", getMem_email()=" + getMem_email() + ", getMem_password()="+ getMem_password() + ", getMem_username()=" + getMem_username() +
+", getMem_nickname()=" + getMem_nickname() + ", getMem_level()=" + getMem_level() + ", getMem_point()=" + getMem_point() + ", getMem_phone()=" + getMem_phone() + ", getmem_birthday()=" + getmem_birthday() +
+", getMem_sex()=" + getMem_sex() + ", getMem_ip()=" + getMem_ip() + ", getMem_zipcode()=" + getMem_zipcode() + ", getMem_address()=" + getMem_address() + ", getMem_receive_sms()=" + getMem_receive_sms() +
+", getMem_open_profile()=" + getMem_open_profile() + ", getMem_recommend()=" + getMem_recommend() + ", getMem_denied()=" + getMem_denied() + ", getMem_register_datetime()=" + getMem_register_datetime() +
+", getMem_lastlogin_datetime()=" + getMem_lastlogin_datetime() + ", getMem_is_comp()=" + getMem_is_comp() + ", getMem_compname()=" + getMem_compname() + ", getMem_is_admin()=" + getMem_is_admin() +  "]";
+	}
+	
